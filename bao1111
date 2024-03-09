@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đại Học Đại Nam</title>
+</head>
+<body>
+    <header>
+        <img src="anh1" alt="">
+        <h1>ĐẠI HỌC ĐẠI NAM</h1>
+    </header>
+    <main>
+        <ul>
+            <li>BẢn Tin Trường Đại Nam</li>
+            <li>Đóng góp</li>
+            <li>Tuyển sinh</li>
+        </ul>
+        <h2>Đôi nét về Đại Nam</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nesciunt saepe autem illo, corrupti harum, facilis ratione, obcaecati sint distinctio cumque odit ad! Corrupti doloribus excepturi ratione aliquid libero architecto.</p>
+        <h2>Sơ đồ tổ chức trường đại học đại nam</h2>
+        <img src="" alt="">
+        <h2>Một số hoạt động của các CLB</h2>
+        <img src="" alt="">
+        <img src="" alt="">
+        <img src="" alt="">
+    </main>
+    <footer>
+        <p>Xét tuyển ngay vào Đại học Đại Nam</p>
+        <table>
+            <tr>
+                <th>A. Khối ngành sức khỏe</th>
+            </tr>
+            <tr>
+                <th>B. Khối ngành kỹ thuật- công nghệ</th>
+            </tr>
+            <tr>
+                <th>C. Khối ngành kinh tế -kinh doanh</th>
+            </tr>
+            <tr>
+                <th>D. Khối nhành khoa học xã hội</th>
+            </tr>
+        </table>
+        <h3><a href="#">Đăng Ký xét tuyển</a> </h3>
+        <h3>Đóng góp ý kiến</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur ipsum numquam quia necessitatibus reiciendis fugit iure sunt cum ea dolore, enim doloremque maiores animi nesciunt corporis consectetur ad recusandae iusto.</p>
+        <marquee behavior="scroll" direction="lift">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+        </marquee>
+        <div>
+            &copy; 2024 by Nguyễn Văn Hiệp <a href="#"><img src="" alt=""></a>
+        </div>
+    </footer>
+</body>
+</html>

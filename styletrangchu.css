@@ -1,0 +1,38 @@
+.menu{
+    background-color: beige;
+
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.menu li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.menu li a:hover {
+    background-color: slategray;
+}
+main marquee img{
+    width: 250px;
+    height: 300px;
+    margin-left: 50px;
+}
+main marquee h1{
+    color: red;
+}
+div img{
+    width: 400px;
+    height: 300px;
+    padding-left: 10px;
+    
+}
+div.nhomsanpham{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+

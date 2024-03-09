@@ -1,0 +1,21 @@
+.menu{
+    background-color: beige;
+
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.menu li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.menu li a:hover {
+    background-color: slategray;
+}
+main marquee img{
+    width: 250px;
+    height: 300px;
+    margin-left: 50px;
+}
